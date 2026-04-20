@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "molnarnoah"
+    ],
+    "environment": "*",
+    "id": "bionicleqfn_palladium",
+    "version": "1.0.0",
+    "name": "Bionicle: Quest For Nuicraft Palladium",
+    "description": "Bionicle: Quest for Nuicraft Palladium Edition!",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

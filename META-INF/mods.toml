@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="bionicleqfn_palladium"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Bionicle: Quest For Nuicraft Palladium"
+description='''
+Bionicle: Quest for Nuicraft Palladium Edition!
+'''
+
+[[dependencies.bionicleqfn_palladium]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.1,)"
+ordering = "NONE"
+side = "BOTH"

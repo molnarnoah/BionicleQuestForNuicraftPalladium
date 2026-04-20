@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "bionicleqfn_palladium",
+        "pack_format": 15,
+        "description": "Bionicle: Quest for Nuicraft Palladium Edition!",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}
