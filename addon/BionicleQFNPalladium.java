@@ -14,6 +14,7 @@ public class BionicleQFNPalladium {
         MinecraftForge.EVENT_BUS.register(this);
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
         BionicleQFNPalladiumSounds.REGISTRY.register(bus);
+        BionicleQFNPalladiumBlocks.REISTRY.register(bus);
         
     }
 
