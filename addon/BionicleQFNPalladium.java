@@ -1,5 +1,13 @@
 package addonpacks.BionicleQuestForNuicraftPalladium.addon;
 
+import java.util.AbstractMap;
+import java.util.Collection;
+import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.logging.LogManager;
+
+import addonpacks.BionicleQuestForNuicraftPalladium.addon.bionicleqfn_palladium.init.BionicleQFNPalladiumBlocks;
+import addonpacks.BionicleQuestForNuicraftPalladium.addon.bionicleqfn_palladium.init.BionicleQFNPalladiumSounds;
+
 @Mod("bionicleqfn_palladium")
 public class BionicleQFNPalladium {
     public static final Logger LOGGER = LogManager.getLogger(BionicleQFNPalladium.class);
