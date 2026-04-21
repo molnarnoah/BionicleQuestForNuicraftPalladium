@@ -15,13 +15,7 @@ public class BionicleQFNPalladium {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
         BionicleQFNPalladiumSounds.REGISTRY.register(bus);
         BionicleQFNPalladiumBlocks.REISTRY.register(bus);
+    
     }
-
-
-
-
-
-
-
 
 }
